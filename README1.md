@@ -6,6 +6,9 @@
         npm install serve -g
     运行命令 serve dist
 
-    webpack-dev-server 自动打包 自动刷新页面
-    "dev":"webpack-dev-server"
-
+    实现live-reload   自动打包 自动刷新页面
+        npm install webpack-dev-server
+        "scripts": {
+          "dev": "webpack-dev-server",
+        }
+        运行: npm run dev
