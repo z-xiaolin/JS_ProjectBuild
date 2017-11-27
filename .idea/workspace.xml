@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="309a26be-1e78-4ae3-8fa6-0ab4baf6f7c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_GulpTest/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_GulpTest/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_GulpTest/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_GulpTest/src/css/test1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_GulpTest/src/css/test2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_GulpTest/src/js/test1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_GulpTest/src/js/test2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/work/02_GulpTest/src/less/test3.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -244,7 +235,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/shangguigu/shangke/code+video/171127_Angular" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -363,12 +354,12 @@
       <workItem from="1511577133900" duration="11842000" />
       <workItem from="1511596774251" duration="2914000" />
       <workItem from="1511706055234" duration="5785000" />
-      <workItem from="1511742671886" duration="99000" />
+      <workItem from="1511742671886" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44524000" />
+    <option name="totallyTimeSpent" value="45122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="1" width="2564" height="1370" extended-state="0" />
